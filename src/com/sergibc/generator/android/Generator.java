@@ -1,4 +1,4 @@
-package com.sergibc.generator.android.generator;
+package com.sergibc.generator.android;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -7,11 +7,11 @@ import java.util.List;
 
 import org.apache.commons.io.FileUtils;
 
-import com.sergibc.generator.android.generator.constants.Constants;
-import com.sergibc.generator.android.generator.constants.PropertyConstants;
-import com.sergibc.generator.android.generator.parser.FileParser;
-import com.sergibc.generator.android.generator.parser.TableParser;
+import com.sergibc.generator.android.constants.Constants;
+import com.sergibc.generator.android.constants.PropertyConstants;
 import com.sergibc.generator.android.generator.utils.TextUtils;
+import com.sergibc.generator.android.parser.FileParser;
+import com.sergibc.generator.android.parser.TableParser;
 
 public class Generator {
 

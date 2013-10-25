@@ -1,4 +1,4 @@
-package com.sergibc.generator.android.generator.beans;
+package com.sergibc.generator.android.beans;
 
 public class Columns {
 

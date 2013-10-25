@@ -1,10 +1,10 @@
-package com.sergibc.generator.android.generator.parser;
+package com.sergibc.generator.android.parser;
 
 import org.apache.commons.lang3.text.WordUtils;
 
-import com.sergibc.generator.android.generator.constants.Constants;
-import com.sergibc.generator.android.generator.constants.ParserConstants;
-import com.sergibc.generator.android.generator.constants.PropertyConstants;
+import com.sergibc.generator.android.constants.Constants;
+import com.sergibc.generator.android.constants.ParserConstants;
+import com.sergibc.generator.android.constants.PropertyConstants;
 import com.sergibc.generator.android.generator.utils.TextUtils;
 
 public class TableParser {

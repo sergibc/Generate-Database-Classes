@@ -1,4 +1,4 @@
-package com.sergibc.generator.android.generator.constants;
+package com.sergibc.generator.android.constants;
 
 public interface ParserConstants {
 	

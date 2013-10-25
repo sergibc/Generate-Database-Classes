@@ -1,6 +1,6 @@
 package com.sergibc.generator.android.generator.utils;
 
-import com.sergibc.generator.android.generator.constants.Constants;
+import com.sergibc.generator.android.constants.Constants;
 
 public class TextUtils {
 

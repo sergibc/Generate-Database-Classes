@@ -1,10 +1,10 @@
-package com.sergibc.generator.android.generator.beans;
+package com.sergibc.generator.android.beans;
 
 import java.util.List;
 
 import org.apache.commons.lang3.text.WordUtils;
 
-import com.sergibc.generator.android.generator.constants.PropertyConstants;
+import com.sergibc.generator.android.constants.PropertyConstants;
 
 public class Table {
 

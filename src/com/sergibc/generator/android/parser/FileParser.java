@@ -1,9 +1,9 @@
-package com.sergibc.generator.android.generator.parser;
+package com.sergibc.generator.android.parser;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.sergibc.generator.android.generator.constants.ParserConstants;
+import com.sergibc.generator.android.constants.ParserConstants;
 
 public class FileParser {
 
