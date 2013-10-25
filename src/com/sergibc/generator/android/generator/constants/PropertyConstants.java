@@ -3,7 +3,7 @@ package com.sergibc.generator.android.generator.constants;
 /**
  * Constants that should be in a properties file
  * 
- * @author A172886
+ * @author sergibc
  * 
  */
 public interface PropertyConstants {

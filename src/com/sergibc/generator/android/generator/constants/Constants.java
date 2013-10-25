@@ -3,7 +3,7 @@ package com.sergibc.generator.android.generator.constants;
 /**
  * Code and text constants
  * 
- * @author A172886
+ * @author sergibc
  * 
  */
 public interface Constants {
