@@ -1,0 +1,6 @@
+Project to generate some Android classes automatically from a database script.
+
+This project is very young! I'm starting to generate the usually class called DatabaseContract, which contains all tables and columns constants.
+
+Now, all parameters are constants but I would like to put in a properties file.
+
